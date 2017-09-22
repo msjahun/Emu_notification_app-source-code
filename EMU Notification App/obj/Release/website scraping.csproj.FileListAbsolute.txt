@@ -1,0 +1,12 @@
+C:\Users\Musa Jahun\documents\visual studio 2017\Projects\website scraping\website scraping\bin\Release\HtmlAgilityPack.dll
+C:\Users\Musa Jahun\documents\visual studio 2017\Projects\website scraping\website scraping\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Musa Jahun\documents\visual studio 2017\Projects\website scraping\website scraping\bin\Release\HtmlAgilityPack.xml
+C:\Users\Musa Jahun\documents\visual studio 2017\Projects\website scraping\website scraping\obj\Release\website_scraping.Form1.resources
+C:\Users\Musa Jahun\documents\visual studio 2017\Projects\website scraping\website scraping\obj\Release\website_scraping.Properties.Resources.resources
+C:\Users\Musa Jahun\documents\visual studio 2017\Projects\website scraping\website scraping\obj\Release\website scraping.csproj.GenerateResource.Cache
+C:\Users\Musa Jahun\documents\visual studio 2017\Projects\website scraping\website scraping\bin\Release\EMU Notification App.exe.config
+C:\Users\Musa Jahun\documents\visual studio 2017\Projects\website scraping\website scraping\bin\Release\EMU Notification App.exe
+C:\Users\Musa Jahun\documents\visual studio 2017\Projects\website scraping\website scraping\bin\Release\EMU Notification App.pdb
+C:\Users\Musa Jahun\documents\visual studio 2017\Projects\website scraping\website scraping\obj\Release\website scraping.csprojResolveAssemblyReference.cache
+C:\Users\Musa Jahun\documents\visual studio 2017\Projects\website scraping\website scraping\obj\Release\EMU Notification App.exe
+C:\Users\Musa Jahun\documents\visual studio 2017\Projects\website scraping\website scraping\obj\Release\EMU Notification App.pdb

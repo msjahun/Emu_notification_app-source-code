@@ -1,0 +1,12 @@
+c:\users\musa jahun\documents\visual studio 2017\Projects\website scraping\website scraping\bin\Debug\website scraping.exe.config
+c:\users\musa jahun\documents\visual studio 2017\Projects\website scraping\website scraping\bin\Debug\website scraping.exe
+c:\users\musa jahun\documents\visual studio 2017\Projects\website scraping\website scraping\bin\Debug\website scraping.pdb
+c:\users\musa jahun\documents\visual studio 2017\Projects\website scraping\website scraping\obj\Debug\website scraping.csprojResolveAssemblyReference.cache
+c:\users\musa jahun\documents\visual studio 2017\Projects\website scraping\website scraping\obj\Debug\website_scraping.Properties.Resources.resources
+c:\users\musa jahun\documents\visual studio 2017\Projects\website scraping\website scraping\obj\Debug\website scraping.csproj.GenerateResource.Cache
+c:\users\musa jahun\documents\visual studio 2017\Projects\website scraping\website scraping\obj\Debug\website scraping.exe
+c:\users\musa jahun\documents\visual studio 2017\Projects\website scraping\website scraping\obj\Debug\website scraping.pdb
+C:\Users\Musa Jahun\documents\visual studio 2017\Projects\website scraping\website scraping\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Musa Jahun\documents\visual studio 2017\Projects\website scraping\website scraping\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Musa Jahun\documents\visual studio 2017\Projects\website scraping\website scraping\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Musa Jahun\documents\visual studio 2017\Projects\website scraping\website scraping\obj\Debug\website_scraping.Form1.resources
